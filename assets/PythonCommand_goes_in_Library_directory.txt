@@ -1,0 +1,1 @@
+' For this to work you have to copy the script file: PythonCommand.scpt' and paste it in the directory: "/Users/<username>/Library/Application\ Scripts/com.microsoft.Excel/"' for the computer you wish to run this on.
